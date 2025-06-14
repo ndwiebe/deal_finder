@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
-# Activate virtualenv if needed
-# source venv/bin/activate
+# Start the Deal Finder service
 python src/main.py
