@@ -1,0 +1,1 @@
+# GPT valuation client stub
