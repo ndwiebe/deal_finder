@@ -1,0 +1,9 @@
+facebook-scraper
+selenium
+pytesseract
+PyYAML
+requests
+openai
+twilio
+schedule
+pytest
