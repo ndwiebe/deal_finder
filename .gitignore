@@ -1,5 +1,15 @@
 __pycache__/
 *.pyc
+
+# Dot-env for secrets
 .env
-config/config.yaml
+
+# Ignore only the exported cookie file, not your config YAML
+config/cookies.json
+
+# DO NOT ignore config/config.yaml any more
+# (remove or comment out the next line:)
+# config/config.yaml
+
 .DS_Store
+
