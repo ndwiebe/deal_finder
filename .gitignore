@@ -7,9 +7,5 @@ __pycache__/
 # Ignore only the exported cookie file, not your config YAML
 config/cookies.json
 
-# DO NOT ignore config/config.yaml any more
-# (remove or comment out the next line:)
-# config/config.yaml
-
 .DS_Store
 
