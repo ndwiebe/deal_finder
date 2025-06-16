@@ -1,3 +1,5 @@
+from dotenv import load_dotenv
+load_dotenv()
 from auth.session_manager import FacebookSession
 from scraper.facebook_scraper import FacebookScraper
 from parser.post_analyzer import PostAnalyzer
