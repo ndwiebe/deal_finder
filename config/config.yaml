@@ -20,7 +20,7 @@ facebook:
     - "559330607742467"
 
 scheduler:
-  interval_minutes: 15
+  interval_minutes: 1
 
 keywords:
   - FS
